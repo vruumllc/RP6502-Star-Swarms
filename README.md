@@ -7,9 +7,15 @@ A Galaxian clone for the [Picocomputer 6502](https://picocomputer.github.io/).
 It serves as a great example of what you can do with asset management, tiles, and affine sprites on the RP6502. Enjoy!
 
 Keys:
+
 --------
+
 Left, Right arrows -- move ship
+
 Up, Down, Space -- fire missile
+
 P -- Pause
+
 R -- Restart
+
 ESC -- Quit
